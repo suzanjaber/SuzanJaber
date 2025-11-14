@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/waving-hand-emoji.gif" width="70"/>
-</p>
+
 
 <h1 align="center">Hi, I'm Suzan Jaber</h1>
 
