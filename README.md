@@ -1,8 +1,7 @@
-
-# 👋 Hi, I'm Suzan Jaber
+<h1 align="center">👋 Hi, I'm Suzan Jaber</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/-UygBh3nnfEAAAAC/waving-hand-emoji.gif" width="80"/>
+  <img src="https://media.tenor.com/CeYjzN2lXH0AAAAj/linux-tux.gif" width="150"/>
 </p>
 
 <p align="center">
