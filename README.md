@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, I'm Suzan Jaber
-  <img src="https://media.tenor.com/VbK9f6kH0VYAAAAi/wave-hand.gif" width="50"/>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40">
 </h1>
 
 <p align="center">
