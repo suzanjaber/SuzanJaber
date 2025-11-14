@@ -1,7 +1,8 @@
 <h1 align="center">
+    <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="40">
   Hi, I'm Suzan Jaber
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40">
 </h1>
+
 
 <p align="center">
   <img src="https://media.tenor.com/iviIq2uXz-kAAAAj/work-office.gif" width="180"/>
